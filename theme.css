@@ -1,0 +1,28 @@
+body{
+    background: #207D00
+ }
+ a {color: blue    }
+ h1{
+     color: antiquewhite;
+     text-align: center;
+ }
+ 
+ p{
+     color: antiquewhite;
+ }
+ 
+ imagen1{
+     width: 400px;
+ }
+ .imagen2{
+     width: 400px
+ }
+ div{
+     width: 1000px;
+     margin: 0 auto;
+ }
+ .textogrande{
+     font-size: 30px;
+     font-family: 'Dancing Script', cursive;
+ 
+ }
